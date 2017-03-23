@@ -1,0 +1,23 @@
+.nav-bar{
+    background-color: #20A0FF;
+    height: 50px;
+}
+.navbar-collapse{
+    height: 50px;
+    width:1200px;
+}
+.navbar-collapse .logo img{
+    width:128px;
+    height:16px;
+    line-height: 50px;
+}
+.navbar-collapse .logo{
+    line-height: 50px;
+}
+.navbar-nav{
+    float:left;
+    margin-left:300px;
+}
+.navbar-nav li{
+    float: left;
+}
